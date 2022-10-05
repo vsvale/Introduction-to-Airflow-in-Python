@@ -9,6 +9,6 @@ Delivering data on a schedule can be a manual process. You write scripts, add co
 [Datacamp](https://app.datacamp.com/)
 
 ## What I have done?
-- create dag in Airflow 2.3 way
+- create [dag](datacamp_dag.py) in Airflow 2.3 way
 - run airflow in k8s with KubernetesCelery executor
 ![dag.png](img/dag.png)
