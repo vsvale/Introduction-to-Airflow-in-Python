@@ -11,3 +11,4 @@ Delivering data on a schedule can be a manual process. You write scripts, add co
 ## What I have done?
 - create dag in Airflow 2.3 way
 - run airflow in k8s with KubernetesCelery executor
+![dag.png](img/dag.png)
